@@ -6,7 +6,7 @@
 	"keywords": [ "freecodecamp", "practice", "node" ],
 	"description": "A project that does something awesome",
 	"dependencies": {
-		"express": "1.1.0"
+		"express": "^1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
